@@ -1,0 +1,8 @@
+{
+  "name": "aluraCar",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "ca04b24d"
+}
