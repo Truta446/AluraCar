@@ -47,7 +47,7 @@ export class HomePage implements NavLifecycles {
 
   selecionaCarro(carro: Carro) {
     this.navCtrl.push(EscolhaPage, {
-      carroSelecionado: carro
+      'carroSelecionado': carro
     });
   }
 
