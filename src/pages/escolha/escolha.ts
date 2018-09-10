@@ -37,6 +37,7 @@ export class EscolhaPage {
     ativado ? this._precoTotal += acessorio.preco : this._precoTotal -= acessorio.preco;
   }
 
+  /*  Função executada pelo bind click do form */
   avancaCadastro() {
     this.navCtrl.push(CadastroPage.name, {
       carroSelecionado: this.carro,
