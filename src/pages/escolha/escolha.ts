@@ -4,14 +4,6 @@ import { Carro } from '../../modelos/carro';
 import { Acessorio } from '../../modelos/acessorio';
 import { CadastroPage } from '../cadastro/cadastro';
 
-
-/**
- * Generated class for the EscolhaPage page.
- *
- * See https://ionicframework.com/docs/components/#navigation for more info on
- * Ionic pages and navigation.
- */
-
 @IonicPage()
 @Component({
   selector: 'page-escolha',
