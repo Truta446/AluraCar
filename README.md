@@ -1,5 +1,5 @@
 # AluraCar
- - Project to learn about IONIC and TypeScript;
+Project to learn about IONIC and TypeScript;
  
  
  #### Run WebService:
