@@ -4,7 +4,7 @@
  
  #### Run WebService:
  ```
-cd aluracar-webservice ; npm install ; npm start
+cd aluracar-webservice\aluracar-webservice ; npm install ; npm start
 ```
 
 
